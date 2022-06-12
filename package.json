@@ -13,8 +13,8 @@
     "webpack:dev": "webpack --config webpack.development.config.js",
     "webpack:watch": "webpack --mode development --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["webpack", "todo-list", "nodejs"],
+  "author": "amar-jay",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^17.0.23",
